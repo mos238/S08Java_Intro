@@ -26,8 +26,8 @@ public class reverseWord {
     public static void main(String[] args)
     {
         reverseWord obj = new reverseWord();
-        obj.reverseWordInMyString("Welcome to BeginnersBook");
-        obj.reverseWordInMyString("This is an easy Java Program");
+        obj.reverseWordInMyString("I love coding in Java");
+        obj.reverseWordInMyString("I'm the best software developer!");
     }
 }
 
